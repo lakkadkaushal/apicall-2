@@ -1,24 +1,41 @@
-.hed
-{
-  background-color: black;
-  color: white;
+.data{
+	margin: auto;
+	width: 600px;
+	/* background-color:black; */
+	padding: 50px;
+	margin-top: 100px;
+	border-radius: 30px;
+	color: white;
+	/* border: 5px solid rgb(0, 24, 242); */
+	text-align: center;
 }
 
-.color1
+.data input
 {
-  color: white !important ;
-  font-size: 32px !important;
+	width: 200px;
+	font-size: 20px;
 }
-.color
+.data button
 {
-  color: white;
-  text-decoration: none;
+	font-size: 20px;
+	margin-top: 30px;
+	padding: 20px 35px;
+	font-weight: bold;
+	background: linear-gradient(50deg);
+	background-color: cornflowerblue;
+	border: 5px solid white;
+	border-radius: 10px;
+	color: white;
 }
 
-.main{
-  margin-left: 300px !important;
+.data2{
+	margin: auto;
+	width: 600px;
+	/* background-color:black; */
+	padding: 50px;
+	margin-top: 100px;
+	border-radius: 30px;
+  text-align: center;
+	color: black;
+	/* border: 5px solid rgb(0, 24, 242); */
 }
-.manu{
-  padding: 10px 15px !important;
-  font-size: 20px !important;
-} 
