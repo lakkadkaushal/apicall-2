@@ -1,0 +1,14 @@
+.jj{
+    width: 23% !important;
+    margin: 10px;
+    /* border: px #0D6EFD solid !important; */
+
+}
+.dd{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: black;
+    
+}

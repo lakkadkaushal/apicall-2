@@ -1,0 +1,22 @@
+
+
+.posts tr td
+{
+    background-color: black;
+    color: white;
+}
+.posts tr th
+{
+    background-color: black;
+    color: white;
+}
+.posts tr{
+    border: solid 2px wheat ;
+    /* padding: 0px 200px; */
+
+}
+.posts{
+    width: 100%;
+    padding: 20px 20px;
+    background-color: black;
+}

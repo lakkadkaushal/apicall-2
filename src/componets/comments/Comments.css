@@ -1,0 +1,22 @@
+
+
+.comments tr td
+{
+    background-color: black;
+    color: white;
+}
+.comments tr th
+{
+    background-color: black;
+    color: white;
+}
+.comments tr{
+    border: solid 2px wheat ;
+    /* padding: 0px 200px; */
+
+}
+.comments{
+    width: 100%;
+    padding: 20px 20px;
+    background-color: black;
+}

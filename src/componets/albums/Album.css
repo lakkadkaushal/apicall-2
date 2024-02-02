@@ -1,0 +1,25 @@
+
+
+.album tr td
+{
+    background-color: black;
+    color: white;
+}
+.album tr th
+{
+    background-color: black;
+    color: white;
+}
+
+
+.album Table{
+    border: solid 2px wheat;
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+.album{
+    width: 100%;
+    padding: 20px 20px;
+    background-color: black;
+}
